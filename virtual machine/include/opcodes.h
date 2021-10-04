@@ -1,7 +1,7 @@
 #ifndef _OPCODES_H
 #define _OPCODES_H
 
-#include "include/vm.h"
+#include "vm.h"
 
 void ADD_op(vm*);
 void AND_op(vm*);
